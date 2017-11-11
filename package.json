@@ -19,7 +19,7 @@
     "tape": "~1.0.4"
   },
   "dependencies": {
-    "request": "~2.22.0",
-    "lookup-webmention-server": "^0.2.0"
+    "lookup-webmention-server": "github:strugee/node-lookup-webmention-server#modernize-deps",
+    "request": "~2.22.0"
   }
 }
